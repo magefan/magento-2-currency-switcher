@@ -30,7 +30,7 @@ Auto Language Switcher extension uses a big GeoIP database out of the box to def
 Different price rounding algorithms are used while converting prices from one currency to another. The currency switcher can round prices and display whole prices instead of numbers with decimals.
 
 <p align="center">
-  <img width="700" height="349" src="https://cm.magefan.com/mf_webp/png/media/wysiwyg/products/acs/magento2-rounding-prices.webp">
+  <img width="600" height="249" src="https://cm.magefan.com/mf_webp/png/media/wysiwyg/products/acs/magento2-rounding-prices.webp">
 </p>
 
 ### Robot Restrictions
