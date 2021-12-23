@@ -69,7 +69,7 @@ Most commonly Magento 2 stores use some custom themes. And as usual, Magento 2 e
 
 Check out [this short video](https://www.youtube.com/watch?v=HQQzPeYMwUI) in order to learn how to configure the Magento 2 Currency Switcher Extension.
 
-## Other [Magento 2 Extensions](https://magefan.com/magento2-extensions) by Magefan
+## Other [Magento 2 Extensions](https://magefan.com/magento-2-extensions) by Magefan
   * [magento 2 Blog Extension](https://magefan.com/magento2-blog-extension)
   * [Magento 2 Blog Plus Extension](https://magefan.com/magento2-blog-extension/pricing)
   * [Magento 2 Blog Extra Extension](https://magefan.com/magento2-blog-extension/pricing)
