@@ -1,10 +1,12 @@
 # Magento 2 Auto Currency Switcher Extension
+<img width="150" height="100" src="https://magefan.com/media/wysiwyg/made_in_ukraine.jpg">
+
 <img align="right" width="120" height="120" src="https://cm.magefan.com/mf_webp/jpg/media/catalog/product/cache/016c1dcfcd29d2b85ead3d1156d7ba11/i/c/icon-auto-currency-switcher_1.webp">
 
 [Auto  Currency Switcher](https://magefan.com/magento-2-currency-switcher-auto-currency-by-country) is the extension for Magento 2 that allows you to automatically display prices in customers' local currency to improve their shopping experience on your store. Using the GeoIP database helps the language switcher to detect customers’ location and define what currency to display prices in.
 
 
-<a href="https://magefan.com/magento-2-currency-switcher-auto-currency-by-country"><img width="300" height="60" src="https://cm.magefan.com/mf_webp/png/media/wysiwyg/DOWNLOAD_NOW.webp"></a>
+<a href="https://magefan.com/magento-2-currency-switcher-auto-currency-by-country"><img width="190" height="70" src="https://magefan.com/media/wysiwyg/download-now_1.png"></a>
 
 ## Benefits
 
