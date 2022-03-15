@@ -71,6 +71,62 @@ Most commonly Magento 2 stores use some custom themes. And as usual, Magento 2 e
 
 Check out [this short video](https://www.youtube.com/watch?v=HQQzPeYMwUI) in order to learn how to configure the Magento 2 Currency Switcher Extension.
 
+## Demo
+
+Try out our open demo and if you like our extension **please give us some star on Github ★**
+<table>
+  <tbody>
+    <tr>
+      <td align="center" valign="middle">
+        Storefront Demo
+      </td>
+      <td align="center" valign="middle">
+        Admin Panel Demo
+      </td align="center" valign="middle">
+    </tr>
+    <tr>
+      <td align="center" valign="middle">
+        <a href="https://acs.demo.magefan.top/gear/bags.htm">
+          <img
+            src="https://magefan.com/static/version1520969775/frontend/Magefan/new/en_US/images/product-tab-demo-1.jpg"
+            alt="Magento 2 Currency Swircher Extension Storefront Demo"
+            height="220"
+          >
+        </a>
+      </td>
+      <td align="center" valign="middle">
+        <a href="https://acs.demo.magefan.top/admin/admin/">
+          <img
+            src="https://magefan.com/static/version1520969775/frontend/Magefan/new/en_US/images/product-tab-demo-2.jpg"
+            alt="Magento 2 Currency Swircher Extension Admin Panel Demo"
+            height="220"
+          >
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center" valign="middle">
+        <a href="https://acs.demo.magefan.top/gear/bags.htm">
+          view
+        </a>
+      </td>
+      <td align="center" valign="middle">
+        <a href="https://acs.demo.magefan.top/admin/admin/">
+          view
+        </a>
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+## Need More Features?
+Please contact us to get a quote
+https://magefan.com/contact
+
+## License
+The code is licensed under [EULA](https://magefan.com/end-user-license-agreement).
+
+
 ## Other [Magento 2 Extensions](https://magefan.com/magento-2-extensions) by Magefan
   * [magento 2 Blog Extension](https://magefan.com/magento2-blog-extension)
   * [Magento 2 Blog Plus Extension](https://magefan.com/magento2-blog-extension/pricing)
