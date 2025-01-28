@@ -1,17 +1,24 @@
 # [Magento 2 Auto  Currency Switcher](https://magefan.com/magento-2-currency-switcher-auto-currency-by-country) by Magefan
 
-<a href="https://savelife.in.ua/en/donate-en/#donate-army-card-monthly"><img width="830" height="208" src="https://cm.magefan.com/blog/support-ukraine.png"></a>
-
-<img width="150" height="100" src="https://magefan.com/media/wysiwyg/made_in_ukraine.jpg">
-
 <img align="right" width="120" height="120" src="https://cm.magefan.com/mf_webp/jpg/media/catalog/product/cache/016c1dcfcd29d2b85ead3d1156d7ba11/i/c/icon-auto-currency-switcher_1.webp">
 
-[Magento 2 Auto  Currency Switcher](https://magefan.com/magento-2-currency-switcher-auto-currency-by-country) is the extension that allows you to automatically display prices in customers' local currency to improve their shopping experience on your store. Using the GeoIP database helps the language switcher to detect customers’ location and define what currency to display prices in.
+[Magento 2 Auto  Currency Switcher](https://magefan.com/magento-2-currency-switcher-auto-currency-by-country)  is the extension that allows you to automatically display prices in customers' local currency based on their location. It comes with three GeoIP databases that ensure seamless detection.
 
-<a href="https://magefan.com/magento-2-currency-switcher-auto-currency-by-country"><img width="190" height="70" src="https://cm.magefan.com/wysiwyg/products/download-magefan-extensions.png"></a><a href="https://magefan.com/magento-2-currency-switcher-auto-currency-by-country#live-demo"><img width="190" height="70" src="https://cm.magefan.com/wysiwyg/products/magefan-live-demo.png"></a>
+Round off your catalog prices, define a currency for each country, and test the extension with the location simulator. These powerful tools will surely improve customer experience in your store.
 
-## Requirements
-  * Magento Community 2.3.0-2.4.x (CE, EE, ECE, B2B)
+Compatibility: Magento 2.3.0 - 2.4.x (CE, EE, ECE, B2B)
+
+<img  align="right" width="120" height="70" src="https://magefan.com/media/wysiwyg/made_in_ukraine.jpg">
+
+<a href="https://magefan.com/magento-2-currency-switcher-auto-currency-by-country"><img width="190" height="70" src="https://cm.magefan.com/wysiwyg/products/download-magefan-extensions.png"></a><a href="https://magefan.com/contact?question=request-free-trial&product_id=1804#contact-form-fields"><img width="190" height="70" src="https://cm.magefan.com/wysiwyg/free-trial.png"> 
+
+## Useful Links
+  * [User Guide](https://magefan.com/magento-2-currency-switcher-auto-currency-by-country/documentation)
+  * [Change Log](https://magefan.com/magento-2-currency-switcher-auto-currency-by-country/change-log)
+  * [FAQs](https://magefan.com/magento-2-currency-switcher-auto-currency-by-country#pattr-faq)
+
+## 🇺🇦 Stand with Ukraine! [How can you help?](https://magefan.com/blog/join-our-donations)
+
     
 ## Benefits
 
@@ -19,58 +26,74 @@
 * Better Customer Engagement
 
 ## Features
-### Currency Based on Customer Geographic Location
+### Display Currency Based on Customer Location
 
-Managing a multi language website you need to try to appeal to your customers as much as possible. Displaying prices in customers’ local currency tells them you care to create a great shopping experience. Magento 2 Auto Language Switcher detects customer location and automatically displays prices in customer’s local currency.
+Magento allows you to configure multiple currencies to create a better customer experience. But shoppers need to take a few extra steps to find the switcher and then finally view prices in their currency. 
 
-<p align="center">
-  <img src="https://cm.magefan.com/mf_webp/gif/media/catalog/product_gifs/currency-switcher-based-on-geolocation.webp">
-</p>
+Fortunately, this Magento 2 Currency Switcher has a workaround.
 
-### GeoIP Database
-
-Auto Language Switcher extension uses a big GeoIP database out of the box to define customer geographical location so that you don't need any additional services. The GeoIP database is updated regularly by cron so you don’t need to update or configure it manually.
+It detects customers’ geographic location and converts currency automatically. No need to go the extra mile to see the familiar currency. Everything’s ready as soon as the customers visit your store.
 
 <p align="center">
-  <img src="https://cm.magefan.com/mf_webp/gif/media/catalog/product_gifs/geoip-database.webp">
+  <img src="https://cm.magefan.com/wysiwyg/products/magento-2-currency-switcher.png">
 </p>
 
-### Prices Pounding
+### Set Currencies For Different Countries
 
-Different price rounding algorithms are used while converting prices from one currency to another. The currency switcher can round prices and display whole prices instead of numbers with decimals.
+When creating your store, you choose one default currency. It’s the currency your customers see when landing in your store. 
+
+Yet, this Currency Switcher allows you to set specific currencies for different countries. Based on this info, the module will then automatically convert the currency after having detected the shoppers’ location.
+
+Take full control over the currency your customers see on all pages of your store!
 
 <p align="center">
-  <img src="https://cm.magefan.com/mf_webp/gif/media/catalog/product_gifs/magento-2-round-prices.webp">
+  <img src="https://cm.magefan.com/wysiwyg/products/auto-currency-switcher-magento.png">
 </p>
 
-### Robot Restrictions
+### Round Off Base and Converted Prices
 
-In order to avoid the SEO issues caused by currency switcher you can disable it from search engine crawlers.
+Depending on the currency rates, the final converted prices can be displayed with decimals. This is not the best scenario, so you need a tool to round off the prices.
 
-### Custom Themes Integration
+The Magento 2 Currency Switcher has this aspect covered. Except for switching currency automatically, it comes with an extensive list of rounding algorithms. Thus, you can choose the best matching one and round off the base and converted prices easily. 
 
-Most commonly Magento 2 stores use some custom themes. And as usual, Magento 2 extensions tend to face some issues on those custom themes which may result in conflicts. Be sure Magento 2 Auto Language Switcher extension won’t affect your customer theme.
 <p align="center">
-  <img src="https://cm.magefan.com/mf_webp/gif/media/catalog/product_gifs/robot-restrictions.webp">
+  <img src="https://cm.magefan.com/wysiwyg/products/auto-currency-switcher-magento.png">
 </p>
 
 
-## Documentation
+### Benefit From the Extensive GeoIP Databases
 
-**General**
-* [How to install Magento 2 Currency Switcher Extension?](https://magefan.com/blog/magento2-auto-currency-switcher-extension-installation)
-* [How to update Magento 2 Currency Switcher Extension?](https://magefan.com/blog/update-magefan-auto-currency-switcher-extension)
-* [How to uninstall Magento 2 Currency Switcher Extension?](https://magefan.com/blog/uninstall-magefan-auto-currency-switcher-extension)
+The Magento 2 Currency Switcher uses three GeoIP databases out of the box. They help to detect customer geographical location accurately without having to rely on additional external services.
 
-**Configuration**
-* [How to Configure Auto Currency Switcher in Magento 2?](https://magefan.com/blog/configure-magento2-auto-currency-switcher)
-* [How to Configure Currency Rates in Magento 2?](https://magefan.com/blog/configure-currency-rates-in-magento-2)
-* [How to Configure Multi-Currency in Magento 2?](https://magefan.com/blog/how-to-configure-multi-currency-in-magento-2)
+Besides, the GeoIP databases are already configured, so there are no extra steps required from your side. Just install the extension and get right to the essential configuration.
 
-**Troubleshooting**
-* [How to Remove Currency Switcher in Magento 2?](https://magefan.com/how-to-remove-currency-switcher-in-magento-2)
-* [How to Test Magento 2 Auto Currency Switcher?](https://magefan.com/blog/testing-magento-2-geo-currency-switcher)
-* [Magento 2 Showing Wrong Customer IP. How to Fix This?](https://magefan.com/blog/magento-2-showing-wrong-customer-ip)
+<p align="center">
+  <img src="https://cm.magefan.com/wysiwyg/products/magento-2-geoip-database.png">
+</p>
+
+### Disable Currency Switcher For Robots and Specific IPs
+
+Robots and crawlers index your website daily to push all changes and updates to the search engines. However, you do not have to convert currencies for them since it may result in SEO issues.
+
+This is why, the Magento 2 Currency Switcher has a separate section where you can define user agents the module will be disabled for. Besides, you can set the same restrictions for the specific IPs. 
+
+So, if your store managers work from different countries, you can disable the switcher for them for a smoother store operation.
+
+<p align="center">
+  <img src="https://cm.magefan.com/wysiwyg/products/auto-currency-switcher-restrictions-magento.png">
+</p>
+
+### Test Currency Switcher With Location Simulator  
+
+With the Magento 2 Currency Switcher, you have a unique opportunity to put yourself in your customer’s shoes. 
+
+The location simulator allows you to test the Currency Switcher from different countries and see how currency changes depending on your location.
+
+This way, you can fine-tune the process before your real customers get to experience it to ensure everything works seamlessly right from the launch.
+
+<p align="center">
+  <img src="https://cm.magefan.com/wysiwyg/products/magento-2-geoip-simulator.png">
+</p>
 
 ## Video Reference
 
@@ -94,7 +117,7 @@ Try out our open demo and if you like our extension **please give us some star o
         <a href="https://acs.demo.magefan.top/gear/bags.htm">
           <img
             src="https://magefan.com/static/version1520969775/frontend/Magefan/new/en_US/images/product-tab-demo-1.jpg"
-            alt="Magento 2 Currency Swircher Extension Storefront Demo"
+            alt="Magento 2 Currency Switcher Extension Storefront Demo"
             height="220"
           >
         </a>
@@ -102,8 +125,8 @@ Try out our open demo and if you like our extension **please give us some star o
       <td align="center" valign="middle">
         <a href="https://acs.demo.magefan.top/admin/admin/">
           <img
-            src="https://magefan.com/static/version1520969775/frontend/Magefan/new/en_US/images/product-tab-demo-2.jpg"
-            alt="Magento 2 Currency Swircher Extension Admin Panel Demo"
+            src="https://cs.magefan.com/version1732118579/frontend/Magefan/next/en_US/Magefan_CssOptimizer/images/product-tab-demo-2.jpg"
+            alt="Magento 2 Currency Switcher Extension Admin Panel Demo"
             height="220"
           >
         </a>
