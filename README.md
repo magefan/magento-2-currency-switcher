@@ -1,8 +1,8 @@
-# [Magento 2 Auto  Currency Switcher](https://magefan.com/magento-2-currency-switcher-auto-currency-by-country) by Magefan
+# [Magento 2 Currency Switcher](https://magefan.com/magento-2-currency-switcher-auto-currency-by-country) by Magefan
 
 <img align="right" width="120" height="120" src="https://cm.magefan.com/mf_webp/jpg/media/catalog/product/cache/016c1dcfcd29d2b85ead3d1156d7ba11/i/c/icon-auto-currency-switcher_1.webp">
 
-[Magento 2 Auto  Currency Switcher](https://magefan.com/magento-2-currency-switcher-auto-currency-by-country)  is the extension that allows you to automatically display prices in customers' local currency based on their location. It comes with three GeoIP databases that ensure seamless detection.
+Automatic [Magento 2 Currency Switcher](https://magefan.com/magento-2-currency-switcher-auto-currency-by-country)  is the extension that allows you to automatically display prices in customers' local currency based on their location. It comes with three GeoIP databases that ensure seamless detection.
 
 Round off your catalog prices, define a currency for each country, and test the extension with the location simulator. These powerful tools will surely improve customer experience in your store.
 
@@ -21,16 +21,20 @@ Compatibility: Magento 2.3.0 - 2.4.x (CE, EE, ECE, B2B)
 
     
 ## Benefits
+* [Display Currency Based on Customer Location](https://github.com/magefan/magento-2-currency-switcher#display-currency-based-on-customer-location)
+* [Set Currencies For Different Countries](https://github.com/magefan/magento-2-currency-switcher#set-currencies-for-different-countries)
+* [Round Off Base and Converted Prices](https://github.com/magefan/magento-2-currency-switcher#round-off-base-and-converted-prices)
+* [Benefit From the Extensive GeoIP Databases](https://github.com/magefan/magento-2-currency-switcher#benefit-from-the-extensive-geoip-databases)
+* [Disable Currency Switcher For Robots and Specific IPs](https://github.com/magefan/magento-2-currency-switcher#disable-currency-switcher-for-robots-and-specific-ips)
+* [Test Currency Switcher With Location Simulator](https://github.com/magefan/magento-2-currency-switcher#test-currency-switcher-with-location-simulator)
 
-* Improved Customer Experience
-* Better Customer Engagement
 
 ## Features
 ### Display Currency Based on Customer Location
 
 Magento allows you to configure multiple currencies to create a better customer experience. But shoppers need to take a few extra steps to find the switcher and then finally view prices in their currency. 
 
-Fortunately, this Magento 2 Currency Switcher has a workaround.
+Fortunately, this Automatic Magento 2 Currency Switcher has a workaround.
 
 It detects customers’ geographic location and converts currency automatically. No need to go the extra mile to see the familiar currency. Everything’s ready as soon as the customers visit your store.
 
@@ -42,7 +46,7 @@ It detects customers’ geographic location and converts currency automatically.
 
 When creating your store, you choose one default currency. It’s the currency your customers see when landing in your store. 
 
-Yet, this Currency Switcher allows you to set specific currencies for different countries. Based on this info, the module will then automatically convert the currency after having detected the shoppers’ location.
+Yet, this Magento Currency Switcher allows you to set specific currencies for different countries. Based on this info, the module will then automatically convert the currency after having detected the shoppers’ location.
 
 Take full control over the currency your customers see on all pages of your store!
 
@@ -52,18 +56,18 @@ Take full control over the currency your customers see on all pages of your stor
 
 ### Round Off Base and Converted Prices
 
-Depending on the currency rates, the final converted prices can be displayed with decimals. This is not the best scenario, so you need a tool to round off the prices.
+Depending on the currency rates, the final converted prices can be displayed with decimals. This is not the best scenario. So you need a tool to round off the prices.
 
-The Magento 2 Currency Switcher has this aspect covered. Except for switching currency automatically, it comes with an extensive list of rounding algorithms. Thus, you can choose the best matching one and round off the base and converted prices easily. 
+The Automatic Magento 2 Currency Switcher covers this. Except for switching currency automatically, it comes with an extensive list of rounding algorithms. Thus, you can choose the best matching one and round off the base and converted prices easily. 
 
 <p align="center">
-  <img src="https://cm.magefan.com/wysiwyg/products/auto-currency-switcher-magento.png">
+  <img src="https://cm.magefan.com/wysiwyg/products/magento-2-round-off-prices.png">
 </p>
 
 
 ### Benefit From the Extensive GeoIP Databases
 
-The Magento 2 Currency Switcher uses three GeoIP databases out of the box. They help to detect customer geographical location accurately without having to rely on additional external services.
+The Magento 2 Currency Switcher uses three GeoIP databases out of the box. They help to detect customer geographical location accurately without relying on additional external services.
 
 Besides, the GeoIP databases are already configured, so there are no extra steps required from your side. Just install the extension and get right to the essential configuration.
 
@@ -89,15 +93,11 @@ With the Magento 2 Currency Switcher, you have a unique opportunity to put yours
 
 The location simulator allows you to test the Currency Switcher from different countries and see how currency changes depending on your location.
 
-This way, you can fine-tune the process before your real customers get to experience it to ensure everything works seamlessly right from the launch.
+This way, you can fine-tune the process before your real customers get to experience it. Ensure everything works seamlessly right from the launch.
 
 <p align="center">
   <img src="https://cm.magefan.com/wysiwyg/products/magento-2-geoip-simulator.png">
 </p>
-
-## Video Reference
-
-Check out [this short video](https://www.youtube.com/watch?v=HQQzPeYMwUI) in order to learn how to configure the Magento 2 Currency Switcher Extension.
 
 ## Demo
 
